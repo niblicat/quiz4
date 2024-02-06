@@ -1,0 +1,2 @@
+def Song():
+    print("Somebody once asked, \"Could I spare some change for gas?\nI need to get myself away from this place\"\nI said, \"Yep, what a concept\nI could use a little fuel myself and we could all use a little change\"")

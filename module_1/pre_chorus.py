@@ -1,0 +1,2 @@
+def Song():
+    print("Well, the years start comin\' and they don\'t stop comin\'\nFed to the rules and I hit the ground runnin\'\nDidn\'t make sense not to live for fun\nYour brain gets smart but your head gets dumb\nSo much to do, so much to see\nSo what\'s wrong with taking the backstreets?\nYou\'ll never know if you don\'t go (W-w-wacko)\nYou\'ll never shine if you don\'t glow")
